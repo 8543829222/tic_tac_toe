@@ -1,3 +1,3 @@
 # tic_tac_toe Game 
-It is a game with python with tkinter .it is good project  for beginer.
+It is a game with python with tkinter .it is good project  for beginer to make your python easy  project 
 
